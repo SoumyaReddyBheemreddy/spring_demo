@@ -1,0 +1,10 @@
+
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(×¡ûÊÿÿÿÿÿ8ĞÄóØİ/
+k
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ViewResolver'.(¸Òóˆüÿÿÿÿ8ÿÅóØİ/
+ƒ
+java:S1128"fRemove this unused import 'org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry'.(ùçšï8ÆóØİ/
+€
+java:S1128"^Remove this unused import 'org.springframework.web.servlet.view.InternalResourceViewResolver'.(Îøÿ‚şÿÿÿÿ8ƒÆóØİ/
+„
+java:S1488\"bImmediately return this expression instead of assigning it to the temporary variable "intPropVal".(ª²ºÍûÿÿÿÿ8‡ÆóØİ/

@@ -1,0 +1,12 @@
+
+`
+java:S1854">Remove this useless assignment to local variable "accountDAO".(æâ¶şÿÿÿÿ8›³Î°Ü/
+Q
+java:S1481"/Remove this unused "accountDAO" local variable.(æâ¶şÿÿÿÿ8§³Î°Ü/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç˜“èşÿÿÿÿ8¨³Î°Ü/
+]	java:S125"<This block of commented-out lines of code should be removed.(×îüÆúÿÿÿÿ8©³Î°Ü/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÅªäŞ8ª³Î°Ü/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8«³Î°Ü/
+]	java:S125"<This block of commented-out lines of code should be removed.(şöøşÿÿÿÿ8­³Î°Ü/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³³Î°Ü/

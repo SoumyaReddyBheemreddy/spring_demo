@@ -1,0 +1,10 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(±˜™•üÿÿÿÿ8›¿¯²Ü/
+X
+java:S1172";Remove these unused method parameters "account", "vipFlag".(ı­Û¾8¨¿¯²Ü/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù±œ8ª¿¯²Ü/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(³ÿÌ‹8­¿¯²Ü/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(â¹ñâ8±¿¯²Ü/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ĞØ”™ıÿÿÿÿ8´¿¯²Ü/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(˜äÿÿÿÿÿ8·¿¯²Ü/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Â¼ óøÿÿÿÿ8¹¿¯²Ü/

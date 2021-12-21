@@ -1,0 +1,25 @@
+
+m
+=src/main/java/com/hibernate/demo/entity/InstructorDetail.java,9/0/90a9b345f9d3246c2283d4e8058c4979f8bfe8ac
+c
+3src/main/java/com/hibernate/demo/entity/Review.java,6/7/67711e2da3e50fad42274cdeb18242947b198a71
+d
+4src/main/java/com/hibernate/demo/entity/Student.java,c/8/c88602bde2677690c664cc13828d5c08cae2f19f
+g
+7src/main/java/com/hibernate/demo/entity/Instructor.java,e/b/eb548a6775877cb03f72f0c1e3a901f196599e85
+c
+3src/main/java/com/hibernate/demo/entity/Course.java,f/2/f2cb4e2495eb36ba267a0657f932561d51834410
+s
+Csrc/main/java/com/hibernate/sample/CreateCoursesAndStudentDemo.java,5/2/52eb7d63a093052253e20a8d3b6793f2006a13db
+m
+=src/main/java/com/hibernate/sample/AddCoursesForMaryDemo.java,4/3/434b68a76eae38ea4e3c2948e3c5f438a02cf0f4
+m
+=src/main/java/com/hibernate/sample/GetCoursesForMaryDemo.java,4/0/40ae2ea25a30d4311e7b0420cec8edc587125648
+n
+>src/main/java/com/hibernate/sample/DeletePacmanCourseDemo.java,7/1/715f36bd113354b620da37988c403d696719523e
+s
+Csrc/main/java/com/hibernate/sample/CreateCoursesAndReviewsDemo.java,9/2/923afec70cb954aefaf8683e6ce85e2640eeffbd
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392

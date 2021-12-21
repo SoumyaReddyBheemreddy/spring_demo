@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_demo_aop_around_handle_execption" />
+        <module name="spring_demo_aop" />
+        <module name="spring_demo_aop_after_finally" />
+        <module name="spring_demo_aop_order_aspect" />
+        <module name="spring_demo_aop_after_returnibg" />
+        <module name="spring_demo_aop_after_throwing" />
+        <module name="spring_demo_aop_around_1" />
+        <module name="spring_annotations" />
+        <module name="spring_demo_aop_around_with_logger" />
+        <module name="spring_demo_aop_joinpoint" />
+        <module name="spring_demo_aop_decalraction" />
+        <module name="spring_demo_aop_decalraction_combo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91ac7c4d-70e9-4c9a-8f64-0369abc74c32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/0/4/045c5fac3b1736e896e7d6c5701ba8d2b88f346d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/1/2/1294d0d7d6b49fb4b6764ec5f2490e94f801ff79" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/3/2/3238987a39fd76711fa73362992b06e7de0bb8b5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/4/d/4d681062f0824d433d1cb2ad9acc134e958de291" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/5/0/506d4a6873c9c129371385b3ce9f07f63ee6b161" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/5/6/56f55cb00ffe01cf8b318427ffbfa2c3db89a446" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/5/9/5980df072812e349071ce080c8d745d62ca367b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/7/0/704b034a8e408adb4948030e90b4bf01ea74988c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/7/a/7a3246ce9890eedd47cc17bc5fed118b22d579cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/8/f/8ff843804d863db23c5a0dd25aa94050752a663f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/c/2/c26fd5c10b037c64e169ca6091492de21a272e21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/c/9/c9269d6ed7135d82731aa11a343f2b45a6033a2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/d/5/d56d0877303ae127921865fa8b104794616dcbd9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/e/3/e39cc7c017b32128dea01093d899bb9598f3c63f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/e/6/e68de72bcf990d11d9b5292edef3853bbe2bd5fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/.idea/sonarlint/issuestore/f/1/f170fb41538003b9a9158f690257cb82e281bd2d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/DesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/adapter/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/adapter/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/adapter/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/factory/CarLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/factory/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/factory/GetLoanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/factory/HomeLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/factory/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/factory/PersonalLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/singleton/eager_initialization/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/singleton/eager_initialization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/singleton/lazy_initialization/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignPattern/src/com/design/creational/singleton/thread_safe/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-Assignments/JAVA-Assignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment12/StreamCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment12/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment12/StudentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/ArrayReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/ConstructorReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/FunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/LambdaScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/PredicateFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/SuperScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/TargetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/lambda/TypeInference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/streams/CreatingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/streams/InternalAndExternalStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/streams/LazyAndEagerStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/streams/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/src/com/example/streams/WorkingWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LambdaAndStreams/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/libraries/javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/0/a/0a5b2ea8858ca2671970000b426353c7d2f570f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/2/3/23313ec98280c494a6530b3322f3ce6622de4f83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/2/e/2ef2a12991059d35fd0d33457ab056b95add6eeb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/4/b/4bf990a995f2f1705dc7af4efda64315c87d6a6e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/5/c/5c9a5f91e8b8016b6f919eb20e9a60b02a51a1bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/6/e/6eb146caa5a663dae2212c4bcbedc2f6dd9d2540" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/7/2/72479d00e1324c40da3dbd5ed4d75be60903480b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/a/1/a1b8810aace830e56ca295f840ba707a062a4444" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/BaseBallCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/BeanLifeCycleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_life_cycle/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/BaseBallCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/BeanScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/bean_scope/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/BaseBallCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/HelloSpringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/SetterDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/overview/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/beanLifeCycleApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/beanScopeApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/sports.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/3/1/313af5fac12649aec5b2c7ffd02b4e95e27636eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/8/a/8acfd082e2eb5aaf43f43233f99e37da8a4f0fa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/9/5/958a13e798e95a29ee944452888d5c31cb4643dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/a/6/a6b21e5081e7d25896a828062317fcce0bacc433" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/a/9/a9d7974417c421ae4a05c497b604e74a1133202a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/c/8/c88602bde2677690c664cc13828d5c08cae2f19f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/d/3/d321101228a310cdd26c651803ab00c6f3cb6325" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/f/d/fd97eebb131d3ed5f8d6275c126991d3a730f2d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/sample/CreateStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/sample/DeleteStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/sample/PrimaryKeyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/sample/QueryStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/sample/ReadStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/hibernate/sample/UpdateStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/java/com/jdbc_demo/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/byte-buddy-1.11.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/hibernate-core-5.6.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/jandex-2.2.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/libraries/antlr_2_7_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/libraries/antlr_2_7_73.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/EagerLazyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/FecthJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/hibernate/sample/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/java/com/jdbc_demo/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/byte-buddy-1.11.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/hibernate-core-5.6.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/jandex-2.2.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/demo/entity/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/CreateCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/CreateInstructorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/DeleteCourseDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/GetInstructorCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/hibernate/sample/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/com/jdbc_demo/TestJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-eager-vs-lazy/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/libraries/antlr_2_7_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/libraries/antlr_2_7_73.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/2/f/2f41abd82c0b8a003566b5d967e3b19baafde67f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/3/9/395ec3dc11cf4cba0b58eef54fd137f3fee64f2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/5/c/5cca11809406048bd828123192895f1d40ffb3f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/5/e/5e44e2e70d26aa4ef7dd901b86b43333adcd14a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/8/9/8973d9d331af91ceccab9f871ff26969dcec2bf4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/8/d/8d250d5955d12dd2bc9d31e0829263dd028a78f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/9/0/90a9b345f9d3246c2283d4e8058c4979f8bfe8ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/c/9/c98617e7d310dccb3876e817ff3e09fb2113cb43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/e/5/e55588bdae1691c9e88eeb3558e90221663293ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/e/b/eb548a6775877cb03f72f0c1e3a901f196599e85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/f/2/f2cb4e2495eb36ba267a0657f932561d51834410" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/hibernate/sample/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/java/com/jdbc_demo/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/byte-buddy-1.11.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/hibernate-core-5.6.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/jandex-2.2.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/com/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/com/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/com/hibernate/sample/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/com/hibernate/sample/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/com/hibernate/sample/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/com/jdbc_demo/TestJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-many-bidirectional/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/libraries/antlr_2_7_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/3/1/313af5fac12649aec5b2c7ffd02b4e95e27636eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/3/9/395ec3dc11cf4cba0b58eef54fd137f3fee64f2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/5/c/5cca11809406048bd828123192895f1d40ffb3f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/8/9/8973d9d331af91ceccab9f871ff26969dcec2bf4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/8/d/8d250d5955d12dd2bc9d31e0829263dd028a78f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/9/0/90a9b345f9d3246c2283d4e8058c4979f8bfe8ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/e/b/eb548a6775877cb03f72f0c1e3a901f196599e85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/hibernate/sample/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/hibernate/sample/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/hibernate/sample/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/hibernate/sample/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/java/com/jdbc_demo/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/byte-buddy-1.11.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/hibernate-core-5.6.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/jandex-2.2.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/hibernate/sample/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/hibernate/sample/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/hibernate/sample/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/com/jdbc_demo/TestJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-bidirectional/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/libraries/antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/libraries/antlr_2_7_71.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/libraries/mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/3/1/313af5fac12649aec5b2c7ffd02b4e95e27636eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/8/9/8973d9d331af91ceccab9f871ff26969dcec2bf4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/8/d/8d250d5955d12dd2bc9d31e0829263dd028a78f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/9/0/90a9b345f9d3246c2283d4e8058c4979f8bfe8ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/e/b/eb548a6775877cb03f72f0c1e3a901f196599e85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/java/com/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/java/com/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/java/com/hibernate/sample/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/java/com/hibernate/sample/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/java/com/jdbc_demo/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/byte-buddy-1.11.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/hibernate-core-5.6.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/jandex-2.2.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/target/classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/target/classes/com/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/target/classes/com/jdbc_demo/TestJDBC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-one-to-one-uni/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/libraries/javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/sonarlint/issuestore/5/4/543cad04ec213acb8c7ac7d3c8e64b842747dd6f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/sonarlint/issuestore/5/a/5acc89aeef7c3a1f67f752746789e8e58b1c6bef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/sonarlint/issuestore/9/d/9d0660ef7ebfc910cfb69e21c290d6157e2d93f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/sonarlint/issuestore/c/3/c35e64cddb874f9620b08b6325664a5f277d4a8d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/AnnotationDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/BaseBallCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/ChessCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/DatabaseFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/JavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/RESTFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/RandomFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/SadFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/SportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/SwimCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/SwimJavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_dependency_injection/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_ioc/AnnotationDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_ioc/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/annotation_ioc/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/BeanScopeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/RESTFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/RandomFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/java/com/bean_scope/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/resources/beanScopeApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/resources/dependencyApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_annotations/src/main/resources/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/libraries/classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/libraries/classmate_1_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/libraries/javax_servlet_jsp_jstl_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/0/9/09b71a62c8d39e36604d4e6993e0c98f75a0ea5c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/0/e/0eb670f9b16e23f0d81306f45e7c9c981a4e630a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/1/1/116604b9551f4d8238413deba6edf7c7a1b5d4b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/1/4/1418b1c0893e93e4386069966e982b6253366a6c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/2/2/22b142a1163e92d20364df0cacc9f9702cfcb0d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/2/8/283e9066d8ee6b4e0b437c78da8d6b95e9bb8697" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/2/e/2e38e29444197dde2f6671e0120f143c3647088b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/3/8/38ad2c32d711f144bf7f7b487adde6857db0e072" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/4/5/45bf355678782148cbbffe6e2b9bfc1e1a583520" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/8/e/8e8cc9023d855b1b0dc9094aa3ff6015a19929de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/a/1/a136b21f20d10f2c1fe25d8e96fa99d9bdaf1d76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/c/f/cf289a6c81b773ecea7ff0a8434750ddee75f049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/d/4/d48a40afc760ee02c66deebec3d0a6ceb4750ca4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/d/b/db4a5efec3585ee313738bcb4395275f73a10398" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/e/0/e0c96662c7d62bc44c3e815e9b6b0240d14bfe6f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/f/c/fc4c176e94beb0c24b7e565ce40f3234eb9a3d23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/mvc/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/mvc/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/mvc/SillyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/tages_and_binding/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/tages_and_binding/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/validation_rules/CourseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/validation_rules/CourseCodeConstraintValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/validation_rules/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/java/com/springdemo/validation_rules/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/helloworld-home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/helloworld.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/silly.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_mvc_demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/libraries/javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/java/SportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-aop-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-aspects-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-beans-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-context-support-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-core-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-expression-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-instrument-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jcl-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-jms-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-messaging-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-orm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-oxm-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-test-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-tx-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-webflux-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/lib/spring-websocket-5.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_no_xml/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/basicstrong/cleanCode/DRYExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/basicstrong/cleanCode/DRYExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/basicstrong/cleanCode/Laundry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/basicstrong/cleanCode/Laundry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/HardCopyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/HardCopyReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Librarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/LibraryMembersDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/LibraryMembersDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/OfflineReaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/OfflineReaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/OnlineReaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/OnlineReaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/SoftCopyReaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/SoftCopyReaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/bad/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/HardCopyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/HardCopyReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Librarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/LibraryMembersDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/LibraryMembersDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/SoftCopyReaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/SoftCopyReaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/dependencyInversion/good/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/bad/AndroidComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/bad/AndroidComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/bad/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/bad/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/bad/DesktopComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/bad/DesktopComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/AndroidComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/AndroidComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/DesktopComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/DesktopComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/NonTouchUIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/NonTouchUIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/TouchUIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/TouchUIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/UIComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/is/good/UIComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/AllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/AllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Librarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Search_By.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Search_by_name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Search_by_year.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/bad/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/AllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/AllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/IssueBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/IssueBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Librarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Librarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/LibraryMembersDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/LibraryMembersDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/RequestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/RequestBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Search_By.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Search_by_name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Search_by_year.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/lsp/good/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/AllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/AllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/bad/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/AllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/AllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Search_By.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Search_By.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Search_By_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Search_By_year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Search_by_name.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/openClosed/good/Search_by_name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/bad/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/bad/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/good/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/good/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/good/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/good/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/good/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clean-Code/src/com/solid/singleResponsibility/good/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-ASSIGNMENT/.idea/JAVA-ASSIGNMENT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment2/ContainsAllAlphabets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment2/ContainsAllAlphabets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/com/assignment/assignment2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-Assignments/src/soumya/assignment/data/Initialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/soumya/assignment/data/Initialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-Assignments/src/soumya/assignment/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/soumya/assignment/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-Assignments/src/soumya/assignment/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-Assignments/src/soumya/assignment/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/BankAccountDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/BankAccountDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/BookDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/BookDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/HouseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/HouseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/RectangleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/OOP/RectangleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ParallelArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ParallelArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ProjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ProjectArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ProjectArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/ProjectArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/array_example/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/DiceSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/DiceSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/GuessTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/RandomNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/control_statements/RandomNumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/ConversionFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/ConversionFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/MadLibClone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/MadLibClone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/VariableFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/introduction/VariableFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/Array2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/Array2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/CountDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/CountDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/MethodCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/MethodCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/MethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/SumOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/SumOfElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/method_example/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/NameParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/NameParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/StringBuilderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/StringBuilderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA-EXAMPLE/src/com/examples/string_example/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/AllBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/bad/AllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/bad/AllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/bad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/bad/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/AllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/AllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/DisplayAllBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/DisplayAllBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/DisplayText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/DisplayText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/EBookReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/EBookReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/PaperBookReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/PaperBookReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/SearchBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/SearchBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/SearchByAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/SearchByAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/SearchByTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/SearchByTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-CODE/src/com/solid/good/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/4/9/49794c18976b519c7421dc4697204304eee75038" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/4/9/49794c18976b519c7421dc4697204304eee75038" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/4/f/4f9161ce49aa5b4be0d7935b524163511e74c8c9" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/4/f/4f9161ce49aa5b4be0d7935b524163511e74c8c9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/c/4/c470d817f269bebf37197f1bd8ebace8ec446030" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/c/b/cbe21ad92314c1e32d9650e616d59c39784ff530" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/d/8/d846fed5612fd5862149243696871b0d7e841d21" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/d/8/d846fed5612fd5862149243696871b0d7e841d21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/e/5/e526d2ea3dc7fc04602810e40648c12ef3e64432" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/e/5/e526d2ea3dc7fc04602810e40648c12ef3e64432" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/f/8/f821ca653880cedda6f33298abdeb315700bf413" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/f/c/fc079f3819153b910ddef871f093fa3f793f1e7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/BookInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/Cost.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/Cost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/CreditCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/CreditCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/solved/Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/unsolved/BookInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/unsolved/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/out/production/SOLID-PRINCIPLES/com/solid/example/unsolved/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/src/com/solid/example/solved/BooksToBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/src/com/solid/example/solved/BooksToBuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/src/com/solid/example/solved/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SOLID-PRINCIPLES/src/com/solid/example/solved/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/AllBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Librarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Search_By.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Search_by_name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Search_by_year.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/bad/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/AllBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/IssueBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Librarian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/LibraryMembersDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/RequestBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Search_By.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Search_by_name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Search_by_year.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOLID/src/com/solid/solidExample/good/Student.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="225oXukgkXLb4J1BoMt2P7DvtsQ" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate-one-to-many-unidirection" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ac7c4d-70e9-4c9a-8f64-0369abc74c32" name="Changes" comment="" />
+      <created>1639136851252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639136851252</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+com.annotation_dependency_injection.BaseBallCoach=org.springframework.stereotype.Component
+com.annotation_dependency_injection.ChessCoach=org.springframework.stereotype.Component
+com.annotation_dependency_injection.CricketCoach=org.springframework.stereotype.Component
+com.annotation_dependency_injection.DatabaseFortuneService=org.springframework.stereotype.Component
+com.annotation_dependency_injection.HappyFortuneService=org.springframework.stereotype.Component
+com.annotation_dependency_injection.RESTFortuneService=org.springframework.stereotype.Component
+com.annotation_dependency_injection.RandomFortuneService=org.springframework.stereotype.Component
+com.annotation_dependency_injection.SportConfig=org.springframework.stereotype.Component
+com.annotation_dependency_injection.TennisCoach=org.springframework.stereotype.Component
+com.annotation_dependency_injection.TrackCoach=org.springframework.stereotype.Component
+com.annotation_ioc.TennisCoach=org.springframework.stereotype.Component
+com.bean_scope.HappyFortuneService=org.springframework.stereotype.Component
+com.bean_scope.RESTFortuneService=org.springframework.stereotype.Component
+com.bean_scope.RandomFortuneService=org.springframework.stereotype.Component
+com.bean_scope.TennisCoach=org.springframework.stereotype.Component
+com.bean_scope.TrackCoach=org.springframework.stereotype.Component
